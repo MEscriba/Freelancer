@@ -1,0 +1,50 @@
+/* html es un lenguaje de marcas de hipertexto
+P= parrafo
+nav= navegacion
+header= encabezado
+main= contenido ppal
+footer= pie de pagina*/
+
+/* REGLA DE ESTRUCTURA DE HTML
+-si el 1er elemento es un header, luego hay que utilizar un section, a menos que sea el cont ppal (main)
+-si tiene heading, tiene que tener un section.*/
+
+/*nav tiene como atributo a href
+img tiene como atributo a src */
+
+/*SELECTORES: 
+por ej: p{} selecciona todos los parrafos
+clase: por ej: .cliente (se puede crear una clase ".cliente" para lo que necesitemos
+Se pueden combinar varios, por ej: .cliente .nombre {color:blue}
+ID #cliente, solo puede haber 1 por documento. */
+
+/* display:block (se coloca uno abajo de otro)
+display: inline (se coloca a la derecha)
+display:flex;
+flex-direction: row (default) o column
+align-items: center; (se alinea horizontalmente)
+justify-content: center;
+
+POSICION RELATIVA: (PADRE DEL CODIGO)
+"         ABSOLUTA (HIJO)
+PARA COMENTAR EN HTML: <!-- BLA BLA BLA-->
+PARA COMENTAR EN CSS: /* BLA BLA BLA 
+FLEXBOX ES PARA ACOMODAR TU CONTENIDO EN COLUMAS O FILAS
+GRID ES PARA ACOMODAR EL CONTENIDO COMBINANDO LAS COLUMNAS Y LAS FILAS CON DIF TAMAÑO CADA UNO
+EJ CODIGO GRID: grid-template-columns: tamaño en pixeles o puede ser porcentaje de lo que quiero
+que ocupe en la pagina
+*/
+
+
+/* ENLACES UTILES: 
+PARA COPIAR CODIGOS DE SOMBREADOS Y DEMAS: 
+https://www.cssmatic.com/border-radius
+PARA COPIAR CODIGO DE NORMALIZE (ajustar tipografias a distintos dispositivos)
+https://necolas.github.io/normalize.css/8.0.1/normalize.css
+PARA COPIAR CODIGO DE ICONOS
+https://tablericons.com/
+PARA VER CODIGOS DE FUENTES:
+https://fonts.google.com/
+PARA VER SI EL CODIGO ESTA SOPORTADO POR EL NAVEGADOR
+https://caniuse.com/
+*/
