@@ -8,9 +8,9 @@ tiene principalmente Html y Css puro! :100:
 
 
 
-:airplane: se deployo la web en ---> https://zingy-melomakarona-fa0492.netlify.app/ <---- entra ahi para ver como quedo!!!! 
+:airplane: se deployo la web en ---> https://zingy-melomakarona-fa0492.netlify.app/g <---- entra ahi para ver como quedo!!!! 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Imagen del blog ](https://github.com/MEscriba/BlogDeCafe/blob/main/img/Captura.PNG)
+![Imagen del blog ](https://github.com/MEscriba/Freelancer/blob/main/Captura.PNG)
